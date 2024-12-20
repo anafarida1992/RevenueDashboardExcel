@@ -55,13 +55,13 @@ file : https://drive.google.com/drive/folders/14LIFkSGzKBFPX_cop6-ebhz7clVnCqSB?
 •	“COGS” (Cost Of Good Sold) dihasilkan dari perkalian “Quantity Purchased” dengan “Cost”.\
 •	“Profit” dihasilkan dari selisih “Revenue” dengan “COGS”.\
 •	“Full Name” dihasilkan dari penggabungan “Buyer First Name” dan “Buyer Last Name”.\
-•	“Weekday” dihasilkan dari nama hari pada “Transaction Date”.\
+•	“Weekday” dihasilkan dari nama hari pada “Transaction Date”.
 
 2.	Labeling\
 •	“Age-Group” merupakan pengelompokkan dari “Age” (15-29, 30-44, 45-59, 60-74, 75-89).\
 •	“Price Range” merupakan pengelompokkan dari “Unit Price” (jika lebih dari $10 = expensive dan jika kurang dari $10 = cheap).\
-•	“Weektype” merupakan pengelompokkan dari “Weekday” (jika Saturday dan Sunday = weekend, maka selain itu = weekday).\
+•	“Weektype” merupakan pengelompokkan dari “Weekday” (jika Saturday dan Sunday = weekend, maka selain itu = weekday).
 
 3.	Aggregating\
 • Agar mendapatkan insight dari data dengan ringkasan statistik.\
-•	“Transaction Date” dikelompokkan menjadi total periode bulanan/monthly dan quarterly.\
+•	“Transaction Date” dikelompokkan menjadi total periode bulanan/monthly dan quarterly.
